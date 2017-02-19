@@ -1,0 +1,11 @@
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\SpaceWreck.exe
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\SpaceWreck.pdb
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\obj\x86\Debug\SpaceWreck.exe
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\obj\x86\Debug\SpaceWreck.pdb
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\Content\Sprites\Mech\top1.xnb
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\Content\Sprites\Mech\bottom1.xnb
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\Content\Sprites\Projectile\LaserBolt.xnb
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\Content\Sprites\Enemy\Zombie.xnb
+E:\workspace\SpaceWreck\SpaceWreck\SpaceWreck\bin\x86\Debug\Content\Sprites\Projectile\laserBoltHit.xnb

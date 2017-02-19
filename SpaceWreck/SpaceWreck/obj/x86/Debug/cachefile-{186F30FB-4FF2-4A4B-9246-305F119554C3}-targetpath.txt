@@ -1,0 +1,5 @@
+Content\Sprites\Mech\top1.xnb
+Content\Sprites\Mech\bottom1.xnb
+Content\Sprites\Projectile\LaserBolt.xnb
+Content\Sprites\Enemy\Zombie.xnb
+Content\Sprites\Projectile\laserBoltHit.xnb
